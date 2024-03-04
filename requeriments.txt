@@ -1,2 +1,2 @@
 discord.py
-typing-extencions
+typing-extensions
